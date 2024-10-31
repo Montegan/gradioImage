@@ -1,0 +1,7 @@
+gradio
+pillow
+python-dotenv
+requests
+transformers
+torch
+diffusers
